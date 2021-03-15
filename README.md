@@ -13,7 +13,6 @@ For this task we were asked to create a basic Portfolio and homepage!
 - Created a basic About Me Page
 - Added a nav bar to other pages
 - Made sure to include Flex Elements
-- 
 
 ## Screenshots
 
